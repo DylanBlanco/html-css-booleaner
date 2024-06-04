@@ -1,0 +1,70 @@
+.titolo{
+background-image: url(../img/pattern.png);
+background-color: #1f98d0;
+color: white;
+height: 100px;
+}
+header div{
+    color: rgb(147, 147, 147);
+}
+.booleaner{
+    color: blue;
+}
+nav>h3{
+    color: rgb(147, 147, 147);
+    font-size: 20px;
+}
+.descrizione{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+.sinistra{
+    display: inline-block;
+}
+.tabella{
+    width: 1080px;
+}
+.centro{
+    display: inline-block;
+    width: 30%;
+}
+.destra{
+    display: inline-block;
+}
+.rhead{
+    background-color: #1f98d0;
+    text-align: left;
+    width: auto;
+}
+.rmain{
+    background-color: #68c9e4;
+    text-align: left;
+    width: auto;
+    height: 50px;
+}
+.rmain1{
+    text-align: left;
+    width: auto;
+    height: 50px;
+}
+.centro{
+    text-align: center;
+    width: 30%;
+}
+.img1{
+    background-image: url(../img/monitor.jpg);
+    width: 311px;
+    height: 207px;
+    color: white;
+    font-size: 30px;
+}
+.img2{
+    background-image: url(../img/graph.jpg);
+    width: 311px;
+    height: 207px;
+    color: white;
+    font-size: 30px;
+}
+body{
+    width: 1080px;
+}
